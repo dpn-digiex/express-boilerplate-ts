@@ -62,8 +62,6 @@ Contains shared resources used across the application.
 
 ---
 
-## Getting Started
-
-### Prerequisites
+#### Prerequisites
 - **Node.js** (>= 16.x)
 - **Docker** (optional, for containerized deployments)
